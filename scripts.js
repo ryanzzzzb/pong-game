@@ -2,8 +2,8 @@
 const canvas = document.getElementById("myCanvas");
 const c = canvas.getContext("2d");
 
-canvas.width = 480;
-canvas.height = 320;
+canvas.width = 500;
+canvas.height = 350;
 
 //variables
 let x = canvas.width/2;
